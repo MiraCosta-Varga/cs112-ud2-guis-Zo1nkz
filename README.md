@@ -9,6 +9,6 @@ Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format a
 
 Place your wireframe image(s) here!
 
-![Student Part] (Screenshot 2024-12-13 145617.png)
+![Student Part] ([Screenshot 2024-12-13 145617.png](https://imgur.com/dyOo5hm))
 
-![Main + Teacher Part] (Screenshot 2024-12-13 145721.png)
+![Main + Teacher Part] ([Screenshot 2024-12-13 145721.png](https://imgur.com/IdWw97B))
