@@ -8,3 +8,7 @@ Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format a
 ## GUI Wireframe
 
 Place your wireframe image(s) here!
+
+![Student Part] (Screenshot 2024-12-13 145617.png)
+
+![Main + Teacher Part] (Screenshot 2024-12-13 145721.png)
